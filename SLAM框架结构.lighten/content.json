@@ -1,0 +1,1656 @@
+{
+  "rightNumber" : 2,
+  "style" : {
+    "fontStyle" : "normal",
+    "enablePalette" : true,
+    "fontWeight" : "normal"
+  },
+  "skeletonTheme" : {
+    "name" : "cable-taperedline",
+    "palette" : [
+
+    ],
+    "topicStyleForMain" : {
+      "lineType" : 1,
+      "topicShape" : 0,
+      "lineWidth" : 3
+    },
+    "topicStyleForSubtopic" : {
+      "lineType" : 1,
+      "topicShape" : 1,
+      "lineWidth" : 3
+    },
+    "mapStyle" : {
+      "taperedLine" : true
+    },
+    "topicStyleForCentral" : {
+      "lineType" : 1,
+      "topicShape" : 0,
+      "lineWidth" : 3
+    },
+    "topicStyleForFloating" : {
+      "lineType" : 1,
+      "topicShape" : 0,
+      "lineWidth" : 3
+    },
+    "relationshipStyle" : {
+      "lineWidth" : 2
+    }
+  },
+  "id" : "C0325549-4EC0-4BED-938D-D351F49831AE-2674-00000BA0D66C3F77",
+  "updateTime" : 1558505319.6591959,
+  "colorTheme" : {
+    "name" : "summer",
+    "palette" : [
+      "{124, 214, 212, 1.00}",
+      "{178, 148, 139, 1.00}",
+      "{242, 198, 19, 1.00}",
+      "{173, 217, 55, 1.00}",
+      "{251, 168, 71, 1.00}",
+      "{102, 106, 126, 1.00}"
+    ],
+    "topicStyleForMain" : {
+      "lineType" : 2,
+      "lineWidth" : 5,
+      "fontStyle" : "normal",
+      "fontWeight" : "normal",
+      "topicMargin" : "{16, 6}",
+      "topicShape" : 1,
+      "fontColor" : "{91, 91, 91, 1.00}",
+      "lineColor" : "{124, 214, 212, 1.00}",
+      "fillColor" : "{255, 255, 255, 1.00}",
+      "fontName" : "AvenirNext-Regular",
+      "cornerRadius" : 8,
+      "fontFamily" : "Avenir Next"
+    },
+    "topicStyleForSubtopic" : {
+      "lineType" : 2,
+      "lineWidth" : 5,
+      "fontStyle" : "normal",
+      "fontWeight" : "normal",
+      "topicMargin" : "{6, 6}",
+      "topicShape" : 1,
+      "fontColor" : "{91, 91, 91, 1.00}",
+      "lineColor" : "{124, 214, 212, 1.00}",
+      "fillColor" : "{255, 255, 255, 1.00}",
+      "fontName" : "AvenirNext-Regular",
+      "cornerRadius" : 8,
+      "fontFamily" : "Avenir Next"
+    },
+    "mapStyle" : {
+      "fillColor" : "{255, 255, 255, 1.00}",
+      "lineType" : 0
+    },
+    "topicStyleForCentral" : {
+      "lineType" : 1,
+      "lineWidth" : 5,
+      "fontStyle" : "normal",
+      "fontWeight" : "normal",
+      "topicMargin" : "{28, 16}",
+      "topicShape" : 0,
+      "fontColor" : "{102, 106, 126, 1.00}",
+      "lineColor" : "{102, 106, 126, 1.00}",
+      "fillColor" : "{255, 255, 255, 1.00}",
+      "fontName" : "AvenirNext-Regular",
+      "cornerRadius" : 12,
+      "fontFamily" : "Avenir Next"
+    },
+    "topicStyleForFloating" : {
+      "lineType" : 2,
+      "lineWidth" : 5,
+      "fontStyle" : "normal",
+      "fontWeight" : "normal",
+      "topicMargin" : "{16, 6}",
+      "topicShape" : 1,
+      "fontColor" : "{91, 91, 91, 1.00}",
+      "lineColor" : "{124, 214, 212, 1.00}",
+      "fillColor" : "{255, 255, 255, 1.00}",
+      "fontName" : "AvenirNext-Regular",
+      "cornerRadius" : 8,
+      "fontFamily" : "Avenir Next"
+    },
+    "relationshipStyle" : {
+      "lineWidth" : 3,
+      "lineColor" : "{255, 87, 34, 1.00}"
+    }
+  },
+  "rootTopic" : {
+    "detach" : false,
+    "style" : {
+      "fontStyle" : "normal",
+      "enablePalette" : true,
+      "fontWeight" : "normal"
+    },
+    "folded" : false,
+    "id" : "07AA1058-8D98-4B1E-B288-CBC31CF573BA-2674-00000BA0D66C8393",
+    "checkList" : false,
+    "title" : "SLAM",
+    "position" : "{0, 0}",
+    "note" : {
+
+    },
+    "highlight" : false,
+    "subtopics" : [
+      {
+        "detach" : false,
+        "style" : {
+          "fontStyle" : "normal",
+          "lineColor" : "{178, 148, 139, 1.00}",
+          "fontWeight" : "normal",
+          "enablePalette" : true
+        },
+        "folded" : false,
+        "id" : "1ED34781-E6A8-4454-9DA8-37C855E32BB6-2674-00000D0B25D5D0E8",
+        "checkList" : false,
+        "title" : "激光SLAM",
+        "position" : "{0, 0}",
+        "note" : {
+
+        },
+        "highlight" : false,
+        "subtopics" : [
+          {
+            "detach" : false,
+            "style" : {
+              "fontStyle" : "normal",
+              "lineColor" : "{178, 148, 139, 1.00}",
+              "fontWeight" : "normal",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "5D1C286E-3A7B-4F42-A128-22B020BC134B-2674-00000F2A1B99EC34",
+            "checkList" : false,
+            "title" : "2D激光SLAM",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "subtopics" : [
+              {
+                "detach" : false,
+                "style" : {
+                  "fontStyle" : "normal",
+                  "lineColor" : "{178, 148, 139, 1.00}",
+                  "fontWeight" : "normal",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "71BA0921-E218-480E-968F-530D1825BEFA-2674-00000F2C15387E47",
+                "checkList" : false,
+                "title" : "介绍",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "F0823A39-B69A-4961-9E63-F4B8F14C4ED6-2674-00000F3C3E2B019E",
+                    "checkList" : false,
+                    "title" : "输入",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "subtopics" : [
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "7BF299FE-C555-4B87-A9DE-9105A0FA8C39-2674-00000F3D26AF7A6E",
+                        "checkList" : false,
+                        "title" : "IMU数据",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "F8ED1587-57AE-453A-84B9-EF506D475ECF-2674-00000F3DF0B5BD28",
+                        "checkList" : false,
+                        "title" : "里程计数据",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "4633536F-EAA7-4428-A1AA-F7D8D7634B73-2674-00000F3EAEA4AEE0",
+                        "checkList" : false,
+                        "title" : "2D激光雷达数据",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      }
+                    ],
+                    "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "09210BFA-B083-495F-9446-7494933ECE46-2674-00000F40499F7062",
+                    "checkList" : false,
+                    "title" : "输出",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "subtopics" : [
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "304F9ED3-FA19-49DE-8B97-7230F01A6DE3-2674-00000F411C9ABFB6",
+                        "checkList" : false,
+                        "title" : "覆盖栅格地图",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "A921FE57-1247-40D8-AA01-9AF91C8D0257-2674-00000F4238D77923",
+                        "checkList" : false,
+                        "title" : "机器人的轨迹或PoseGraph",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      }
+                    ],
+                    "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "95FFD00A-F7FA-4AA6-B2BA-7D237DF57E10-2674-00000F44CAC63A04",
+                    "checkList" : false,
+                    "title" : "帧间匹配方法",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "subtopics" : [
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "7ACD7671-4C77-4538-B2C0-D10EA20F75C9-2674-00000F46B9B368D1",
+                        "checkList" : false,
+                        "title" : "PI-ICP",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "2C49969A-A9B3-4823-B478-E4222720A937-2674-00000F4853D5E04B",
+                        "checkList" : false,
+                        "title" : "CSM（Correlation Scan Match）",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "2BBF615C-B812-44B1-810E-49868D4386DF-2674-00000F4C23495964",
+                        "checkList" : false,
+                        "title" : "梯度优化方法（hect or_slam)",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "0B443F3A-E489-4DA4-B6B2-6958F8D0E207-2674-00000F4FDC887ECE",
+                        "checkList" : false,
+                        "title" : "State of Art：CSM+梯度优化",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      }
+                    ],
+                    "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "2C4B975C-6F97-482D-AB34-466BCEB5E443-2674-00000F5499B75797",
+                    "checkList" : false,
+                    "title" : "回环检测方法",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "subtopics" : [
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "6910473D-EF77-4A5A-ABA8-385098E2EA61-2674-00000F57D1D12560",
+                        "checkList" : false,
+                        "title" : "Scan-to-Scan",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "D57000D9-C036-49AC-AFA3-FE5717021565-2674-00000F594A408A35",
+                        "checkList" : false,
+                        "title" : "Map-to-Map",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "B2FA38D7-9132-47BB-88FC-BB38C7225480-2674-00000F5B0E18F1C2",
+                        "checkList" : false,
+                        "title" : "Branch and Bound & Lazy Decision",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      }
+                    ],
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "fontStyle" : "normal",
+                  "lineColor" : "{178, 148, 139, 1.00}",
+                  "fontWeight" : "normal",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "44D25D76-FB63-46D1-A2E3-A4C88AC05531-2674-00000F5E810AB801",
+                "checkList" : false,
+                "title" : "发展",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "05DA3DD3-A9CD-411D-A36D-4399E93ECAF8-2674-00000F61AC4DC0CA",
+                    "checkList" : false,
+                    "title" : "Filter—based",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "subtopics" : [
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "68B113F5-1B17-4E3A-A6FC-17151F3FDBE1-2674-00000F641804E2A1",
+                        "checkList" : false,
+                        "title" : "EKF-SLAM—90年代",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "66F8535D-5B8E-41B5-BD6A-E8418D37AF4B-2674-00000F66E0FBACAD",
+                        "checkList" : false,
+                        "title" : "FastSLAM—02~03",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "6BB2C513-A399-465F-9E3D-2F5165794802-2674-00000F68D9BDF95B",
+                        "checkList" : false,
+                        "title" : "Gmapping—07",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "AEC4BD11-52AD-425A-930F-65E3D736F0A6-2674-00000F6B34D94957",
+                        "checkList" : false,
+                        "title" : "Optimal RBPF—10",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      }
+                    ],
+                    "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "50CF7D5C-D608-416B-86CD-CCD7749232E1-2674-00000F6EA75D324D",
+                    "checkList" : false,
+                    "title" : "Graph-based",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "subtopics" : [
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "15DBFD75-E60C-4BF6-81D8-948C2E7C8EA2-2674-00000F702CB194F9",
+                        "checkList" : false,
+                        "title" : "Globally Consistent Range Scan For Enivronment Mapping—97",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "D4E5E171-41A9-49D3-B7EE-276310B88B10-2674-00000F76F034C0BC",
+                        "checkList" : false,
+                        "title" : "Incremental Mapping of Large Cylic Enivronments—99",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "169B9137-FF72-441A-B81D-0426DA9745B0-2674-00000F7AA36E3527",
+                        "checkList" : false,
+                        "title" : "Karto SLAM—10",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "C30E574F-1BA8-4587-AC49-A8328643D9AE-2674-00000F7C138F23A6",
+                        "checkList" : false,
+                        "title" : "Cartographer—16",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      }
+                    ],
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              }
+            ],
+            "checkboxStatus" : 0
+          },
+          {
+            "detach" : false,
+            "style" : {
+              "fontStyle" : "normal",
+              "lineColor" : "{178, 148, 139, 1.00}",
+              "fontWeight" : "normal",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "0499172D-E7D3-46C8-A1D2-A3461770F83E-2674-00000F34F18B5A5D",
+            "checkList" : false,
+            "title" : "3D激光SLAM",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "subtopics" : [
+              {
+                "detach" : false,
+                "style" : {
+                  "fontStyle" : "normal",
+                  "lineColor" : "{178, 148, 139, 1.00}",
+                  "fontWeight" : "normal",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "5CAE901D-00F0-488C-AC28-5EEF122785A4-2674-00000F83BB57B375",
+                "checkList" : false,
+                "title" : "介绍",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "97E64C9C-B896-4DEC-829E-ADA1AA460D55-2674-00000F86C78224B6",
+                    "checkList" : false,
+                    "title" : "输入",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "subtopics" : [
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "676DDCC1-37CD-479C-951C-7FAF8AAE072B-2674-00000F89CBA1D19E",
+                        "checkList" : false,
+                        "title" : "IMU数据",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "6BB69AAD-CE44-4D0F-83EA-852C48425159-2674-00000F89CC42BD3B",
+                        "checkList" : false,
+                        "title" : "里程计数据",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "8D4756DF-C742-4895-8FBE-F7177A8EE03D-2674-00000F89CDD1B5BB",
+                        "checkList" : false,
+                        "title" : "3D激光雷达数据",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      }
+                    ],
+                    "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "E4F3E19E-88BE-463F-BC0C-21E60644F5B1-2674-00000F8CC52F2B46",
+                    "checkList" : false,
+                    "title" : "输出",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "subtopics" : [
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "AEB7AA13-6391-416B-BA2E-EFF15CACE243-2674-00000F8F7366887A",
+                        "checkList" : false,
+                        "title" : "3D点云地图",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "372E19C6-2866-4F6F-93F8-5C457267EB22-2674-00000F8F740CD1C5",
+                        "checkList" : false,
+                        "title" : "机器人的轨迹或PoseGraph",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      }
+                    ],
+                    "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "C0D31A2F-66C3-43BC-9DDF-0A8FCF1F6918-2674-00000FCF3A326749",
+                    "checkList" : true,
+                    "title" : "帧间匹配算法",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "subtopics" : [
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "CE336E61-7241-43DE-955E-EB8EC4468285-2674-00000FD1E9EC23A5",
+                        "checkList" : false,
+                        "title" : "Point-to-Point ICP",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 1
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "1E2F2384-895C-42E8-8911-8E69467D9202-2674-00000FD61E5AEFF0",
+                        "checkList" : false,
+                        "title" : "Feature-based Method",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 1
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "16A633E3-31CE-453E-AE06-231C6F55A67C-2674-00000FD9C3E8D134",
+                        "checkList" : false,
+                        "title" : "Normal Distribution Transformation",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 1
+                      }
+                    ],
+                    "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "79090BE9-BC27-40A9-89C3-3B7D45ACA5D1-2674-00000F92F9C48136",
+                    "checkList" : true,
+                    "title" : "回环检测方法",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "subtopics" : [
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "5F387E44-98F4-4166-B782-D5F506CAE96C-2674-00000FA55288BA4C",
+                        "checkList" : false,
+                        "title" : "Scan-to-Scan",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 1
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "3CF8B2C9-F0BC-47FE-8D0F-9146A83511E7-2674-00000FA552FF3A00",
+                        "checkList" : false,
+                        "title" : "Map-to-Map",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 1
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "518C8A5F-CEE6-476A-A975-C77A9DF8D1FC-2674-00000FA55489D740",
+                        "checkList" : false,
+                        "title" : "Branch and Bound & Lazy Decision",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 1
+                      }
+                    ],
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "fontStyle" : "normal",
+                  "lineColor" : "{178, 148, 139, 1.00}",
+                  "fontWeight" : "normal",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "A0B87940-2E8F-42E2-935B-56648D526A50-2674-00000F369CEB85AE",
+                "checkList" : true,
+                "title" : "现有3D激光SLAM方案",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "B2268E91-5BEC-4C09-B29A-6D7CD6450212-2674-00000F369CEE2474",
+                    "checkList" : false,
+                    "title" : "LOAM（https:\/\/github.com\/laboshinl\/loam_velodyne ）",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "subtopics" : [
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "D331E80D-F041-4331-8E0B-A18A94BBC292-2674-00000F369CF0462B",
+                        "checkList" : false,
+                        "title" : "纯激光，匀速运动假设，无回环",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      }
+                    ],
+                    "checkboxStatus" : 1
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "FA07EC4F-A363-458C-B250-EEEEE4647E7E-2674-00000F369CF1C589",
+                    "checkList" : false,
+                    "title" : "LeGo-LOAM（https:\/\/github.com\/RobustFieldAutonomyLab\/LeGO-LOAM）",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 1
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "1193C9CA-15F6-40E4-96D7-51F707646A76-2674-00000F369CF33152",
+                    "checkList" : false,
+                    "title" : "HDL（https:\/\/github.com\/koide3\/hdl_graph_slam）",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 1
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "EEF3517E-00E5-4604-AB83-EEA8F754D539-2674-00000F369CF49C13",
+                    "checkList" : false,
+                    "title" : "V-LOAM（https:\/\/github.com\/Jinqiang\/demo_lidar）",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "subtopics" : [
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "DF47E4C8-4A41-47E3-80DB-2680724E0F6F-2674-00000F369CF61961",
+                        "checkList" : false,
+                        "title" : "视觉激光融合、漂移匀速假设，无回环",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      }
+                    ],
+                    "checkboxStatus" : 1
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "5ACC6005-647B-4AAE-85B3-AA2F6041B785-2674-00000F369CF77E17",
+                    "checkList" : false,
+                    "title" : "VELO（http:\/\/www7.informatik.uni-wuerzburg.de\/fileadmin\/10030700\/user_upload\/nuechter\/dynamic_veloslam.html）",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "subtopics" : [
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "90631155-F28F-49EA-9666-94DB791B4024-2674-00000F369CF8E954",
+                        "checkList" : false,
+                        "title" : "视觉激光融合，无运动即便假设，有回环",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      }
+                    ],
+                    "checkboxStatus" : 1
+                  }
+                ],
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "fontStyle" : "normal",
+                  "lineColor" : "{178, 148, 139, 1.00}",
+                  "fontWeight" : "normal",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "553F3A7A-C56F-4446-9C21-964858EA87DB-2674-00000FA72C2BE754",
+                "checkList" : false,
+                "title" : "应用",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "B0F3D9A7-64C5-4AEC-A956-04EA4044A716-2674-00000FACD814CBB3",
+                    "checkList" : false,
+                    "title" : "数据的预处理",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "subtopics" : [
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "37A611EB-F7A2-438A-9BAD-3A8A9E1650C6-2674-00000FADDA9B1B50",
+                        "checkList" : false,
+                        "title" : "轮式里程计的标定",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "83020388-946D-4E68-BD7D-F1276ACA0300-2674-00000FAF0E00AE3A",
+                        "checkList" : false,
+                        "title" : "激光雷达运动畸变去除",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "4898EA68-493B-4CB4-A05C-05540C427485-2674-00000FB7F2718652",
+                        "checkList" : false,
+                        "title" : "不同系统之间的时间同步",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      }
+                    ],
+                    "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{178, 148, 139, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "8BEEB289-5F3E-4072-9E63-E4B64C660C50-2674-00000FB9C107FCEE",
+                    "checkList" : false,
+                    "title" : "与视觉融合",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "subtopics" : [
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "99CFBE96-F379-495F-9B9F-4316BDD07CC9-2674-00000FBAD969A8A5",
+                        "checkList" : false,
+                        "title" : "3D激光雷达为视觉特征提供深度信息",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "6564FD14-DD5A-446E-970E-0492C6985D6B-2674-00000FBD6C1F0421",
+                        "checkList" : false,
+                        "title" : "视觉辅助激光雷达进行运动畸变去除",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "5B73FA59-41B0-43C4-9DC6-0F50B175A392-2674-00000FBF403463F3",
+                        "checkList" : false,
+                        "title" : "视觉辅助回环检测",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      },
+                      {
+                        "detach" : false,
+                        "style" : {
+                          "fontStyle" : "normal",
+                          "lineColor" : "{178, 148, 139, 1.00}",
+                          "fontWeight" : "normal",
+                          "enablePalette" : true
+                        },
+                        "folded" : false,
+                        "id" : "A9738615-6EB0-4ACD-8E53-AC33F6275B3B-2674-00000FC063E2A4BF",
+                        "checkList" : false,
+                        "title" : "视觉提供精确里程信息",
+                        "position" : "{0, 0}",
+                        "note" : {
+
+                        },
+                        "highlight" : false,
+                        "checkboxStatus" : 0
+                      }
+                    ],
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              }
+            ],
+            "checkboxStatus" : 0
+          }
+        ],
+        "checkboxStatus" : 0
+      },
+      {
+        "detach" : false,
+        "style" : {
+          "fontStyle" : "normal",
+          "lineColor" : "{242, 198, 19, 1.00}",
+          "fontWeight" : "normal",
+          "enablePalette" : true
+        },
+        "folded" : false,
+        "id" : "04B0465E-F891-4778-9CB3-591E051423CB-2674-00000D1316795A5F",
+        "checkList" : false,
+        "title" : "视觉SLAM",
+        "position" : "{0, 0}",
+        "note" : {
+
+        },
+        "highlight" : false,
+        "subtopics" : [
+          {
+            "detach" : false,
+            "style" : {
+              "fontStyle" : "normal",
+              "lineColor" : "{242, 198, 19, 1.00}",
+              "fontWeight" : "normal",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "407F5E84-863E-4256-AEFF-D359CD68DE0A-2674-00000D17E313C5CB",
+            "checkList" : false,
+            "title" : "前端 视觉里程计",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "subtopics" : [
+              {
+                "detach" : false,
+                "style" : {
+                  "fontStyle" : "normal",
+                  "lineColor" : "{242, 198, 19, 1.00}",
+                  "fontWeight" : "normal",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "AD0EFB8A-140C-4B4D-96D0-ADB68805FC2F-2674-00000D1AC9FE9919",
+                "checkList" : false,
+                "title" : "单目",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "fontStyle" : "normal",
+                  "lineColor" : "{242, 198, 19, 1.00}",
+                  "fontWeight" : "normal",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "406D70E5-B94B-4957-9DE0-14275D4F0F56-2674-00000D1BBCB97F6A",
+                "checkList" : false,
+                "title" : "双目",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "fontStyle" : "normal",
+                  "lineColor" : "{242, 198, 19, 1.00}",
+                  "fontWeight" : "normal",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "72DB2472-9383-487B-B478-AA6D1967852C-2674-00000D1C62E621E3",
+                "checkList" : false,
+                "title" : "RGB-D",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "checkboxStatus" : 0
+              }
+            ],
+            "checkboxStatus" : 0
+          },
+          {
+            "detach" : false,
+            "style" : {
+              "fontStyle" : "normal",
+              "lineColor" : "{242, 198, 19, 1.00}",
+              "fontWeight" : "normal",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "1833AFEB-1EE0-49DE-926C-8E70CB6B0B71-2674-00000D1DF9E034D9",
+            "checkList" : false,
+            "title" : "后端优化",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "subtopics" : [
+              {
+                "detach" : false,
+                "style" : {
+                  "fontStyle" : "normal",
+                  "lineColor" : "{242, 198, 19, 1.00}",
+                  "fontWeight" : "normal",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "F4CC86F3-8BD6-4181-8D40-552E6932652C-2674-00000D1F08066402",
+                "checkList" : false,
+                "title" : "基于滤波器：KF、EKF",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "fontStyle" : "normal",
+                  "lineColor" : "{242, 198, 19, 1.00}",
+                  "fontWeight" : "normal",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "52FA0C9B-076E-46AB-8CAA-C5DA76B54D99-2674-00000D24C550CD74",
+                "checkList" : false,
+                "title" : "基于非线性优化：图优化、因子图",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "fontStyle" : "normal",
+                  "lineColor" : "{242, 198, 19, 1.00}",
+                  "fontWeight" : "normal",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "75421883-3BE9-45E2-9F2E-19073B60E9EC-2674-00000D28A8556AE0",
+                "checkList" : false,
+                "title" : "回环检测",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "fontStyle" : "normal",
+                  "lineColor" : "{242, 198, 19, 1.00}",
+                  "fontWeight" : "normal",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "07CE86BA-70AF-47A0-9282-EEA99FDBEDEB-2674-00000D2C2EB0F46E",
+                "checkList" : false,
+                "title" : "建图",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "fontStyle" : "normal",
+                      "lineColor" : "{242, 198, 19, 1.00}",
+                      "fontWeight" : "normal",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "A0819B5F-8050-4D9B-AA44-1E5B8ED96D2F-2674-00000D2D17BA92CD",
+                    "checkList" : false,
+                    "title" : "一般是三维点云图",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              }
+            ],
+            "checkboxStatus" : 0
+          }
+        ],
+        "checkboxStatus" : 0
+      }
+    ],
+    "checkboxStatus" : 0
+  },
+  "createTime" : 1558505319.6591959,
+  "mapName" : ""
+}
